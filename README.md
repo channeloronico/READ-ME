@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://i.gifer.com/origin/61/61a5b9e8938f261f19e5ce8308b03fa6_w200.gif" height="120px" />
+</div>
+
 # ₊˚⊹♡ Channel Kyte P. Oronico ₊˚⊹♡
 
 Hey there! I'm Kyte, your friendly neighborhood girly girl diving into the world of technology. Currently pursuing a Bachelor of Science in Information Technology with a specialization in Business Analytics, I'm passionate about leveraging data to drive informed business decisions.
