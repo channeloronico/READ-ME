@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif" height="120px" />
+    <img src="https://i.kym-cdn.com/photos/images/original/001/480/085/315.png" height="120px" />
 </div>
 
 # ₊˚⊹♡ Channel Kyte P. Oronico ₊˚⊹♡
