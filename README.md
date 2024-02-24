@@ -2,7 +2,7 @@
     <img src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif" height="120px" />
 </div>
 
-                                       # ₊˚⊹♡ Channel Kyte P. Oronico! ₊˚⊹♡
+# ₊˚⊹♡ Channel Kyte P. Oronico! ₊˚⊹♡
 
 Hey there! I'm Kyte, your friendly neighborhood girly girl diving into the world of technology. Currently pursuing a Bachelor of Science in Information Technology with a specialization in Business Analytics, I'm passionate about leveraging data to drive informed business decisions.
 
@@ -10,7 +10,7 @@ Hey there! I'm Kyte, your friendly neighborhood girly girl diving into the world
     <img src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif" height="120px" />
 </div>
 
-                                         ## ₊˚⊹♡ Coding enthusiast: ₊˚⊹♡
+## ₊˚⊹♡ Coding enthusiast: ₊˚⊹♡
 
 As someone who enjoys the intricacies of coding, I find joy in crafting solutions and unraveling complex problems through lines of code. Whether it's Python, SQL, or JavaScript, I'm always eager to explore new languages and tools to enhance my analytical capabilities.
 
@@ -47,7 +47,7 @@ Join me on this exciting journey as we delve into the fascinating world of techn
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### ₊˚⊹♡ Connect With Me: ₊˚⊹♡
+### ₊˚⊹♡ Connect with me: ₊˚⊹♡
 
 <p align="left">
     <a href="https://fb.com/https://web.facebook.com/channelkyte.oronico//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/channelkyte.oronico/" height="30" width="40" /></a>
