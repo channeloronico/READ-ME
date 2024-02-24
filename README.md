@@ -41,25 +41,25 @@ Join me on this exciting journey as we delve into the fascinating world of techn
 
 I'm proficient in a variety of programming languages and tools, including:
 
-- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
-- ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
-- ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-- ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
-- ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+𐙚 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+𐙚 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+𐙚 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
+𐙚 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+𐙚 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+𐙚 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+𐙚 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+𐙚 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ### ₊˚⊹♡ Projects ₊˚⊹♡ 
 
-1. Bell
-2. Dynamic Table
-3. Hover
-4. Scroll Indicator
-5. Technical 1
-6. Technical 2
-7. Technical 3
-8. Animation Project
+𐙚 Bell
+𐙚 Dynamic Table
+𐙚 Hover
+𐙚 Scroll Indicator
+𐙚 Technical 1
+𐙚 Technical 2
+𐙚 Technical 3
+𐙚 Animation Project
 
 ### ₊˚⊹♡ Connect With Me: ₊˚⊹♡
 
