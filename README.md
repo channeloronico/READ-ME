@@ -9,7 +9,6 @@ This repository contains the resume template for Channel Kyte P. Oronico.
         𐙚 [DESCRIPTION](#description)
         𐙚 [FEATURES](#features)
         𐙚 [HOW TO USE](#how-to-use)
-        𐙚 [SCREENSHOTS](#screenshots)
         𐙚 [CONTRIBUTING](#contributing)
         𐙚 [CREDITS](#credits)
         𐙚 [LICENSE](#license)
@@ -45,10 +44,6 @@ Users can easily switch between light and dark mode backgrounds with a single cl
 ## ⋅˚₊‧ ୨୧ ‧₊˚ ⋅ HOW TO USE ⋅˚₊‧ ୨୧ ‧₊˚ ⋅
 
 To view the resume, simply open the HTML file (`index.html`) in a web browser. Navigate through the sections using scroll or by clicking on the desired section in the table of contents.
-
-## ⋅˚₊‧ ୨୧ ‧₊˚ ⋅ SCREENSHOTS ⋅˚₊‧ ୨୧ ‧₊˚ ⋅
-
-[Include screenshots of the resume here if desired]
 
 ## CONTRIBUTING
 
