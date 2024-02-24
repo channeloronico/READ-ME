@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="https://i.gifer.com/origin/61/61a5b9e8938f261f19e5ce8308b03fa6_w200.gif" height="120px" />
-</div>
-
 # ₊˚⊹♡ Channel Kyte P. Oronico ₊˚⊹♡
 
 Hey there! I'm Kyte, your friendly neighborhood girly girl diving into the world of technology. Currently pursuing a Bachelor of Science in Information Technology with a specialization in Business Analytics, I'm passionate about leveraging data to drive informed business decisions.
@@ -48,6 +44,17 @@ I'm proficient in a variety of programming languages and tools, including:
 - ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
 - ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+### ₊˚⊹♡ Projects ₊˚⊹♡ 
+
+1. Bell
+2. Dynamic Table
+3. Hover
+4. Scroll Indicator
+5. Technical 1
+6. Technical 2
+7. Technical 3
+8. Animation Project
 
 ### ₊˚⊹♡ Connect with me: ₊˚⊹♡
 
