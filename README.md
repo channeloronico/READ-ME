@@ -32,10 +32,6 @@ Join me on this exciting journey as we delve into the fascinating world of techn
 
 <img alt="Coding" src="https://media0.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif?cid=790b761159f139zi8l4l4jdyaxb8nq6lihcgnjj55wdcru5g&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right"/>
 
-<div align="center">
-    <img src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif" height="120px" />
-</div>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
