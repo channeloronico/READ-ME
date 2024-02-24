@@ -52,14 +52,14 @@ I'm proficient in a variety of programming languages and tools, including:
 
 ### ₊˚⊹♡ Projects ₊˚⊹♡ 
 
-𐙚 Bell
-𐙚 Dynamic Table
-𐙚 Hover
-𐙚 Scroll Indicator
-𐙚 Technical 1
-𐙚 Technical 2
-𐙚 Technical 3
-𐙚 Animation Project
+1. 𐙚 Bell
+2. 𐙚 Dynamic Table
+3. 𐙚 Hover
+4. 𐙚 Scroll Indicator
+5. 𐙚 Technical 1
+6. 𐙚 Technical 2
+7. 𐙚 Technical 3
+8. 𐙚 Animation Project
 
 ### ₊˚⊹♡ Connect With Me: ₊˚⊹♡
 
