@@ -23,7 +23,7 @@ As someone who enjoys the intricacies of coding, I find joy in crafting solution
 With a keen eye for patterns and a knack for deciphering insights from data, I thrive in the realm of business analytics. From predictive modeling to data visualization, I love uncovering actionable intelligence that empowers organizations to thrive in today's data-driven landscape.
 
 <div align="center">
-    <img src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif" height="120px" />
+    <img src="https://pa1.aminoapps.com/6631/fae15df194940a1d5a7ccb3016f24389b36d9dde_00.gif" height="120px" />
 </div>
 
 Join me on this exciting journey as we delve into the fascinating world of technology, coding, and business analytics. Together, let's unravel the mysteries of data and unlock the potential it holds for a brighter, more informed future!
