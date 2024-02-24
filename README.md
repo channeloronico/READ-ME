@@ -1,4 +1,4 @@
-# ⋅˚₊‧ ୨୧ ‧₊˚ ⋅ CHANNEL KYTE P. ORONICO RESUME ⋅˚₊‧ ୨୧ ‧₊˚ ⋅
+# ⋅˚₊‧ ୨୧ CHANNEL KYTE P. ORONICO RESUME ୨୧ ‧₊˚ ⋅
 
 This repository contains the resume template for Channel Kyte P. Oronico.
 
