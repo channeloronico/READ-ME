@@ -12,7 +12,7 @@ Hey there! I'm Kyte, your friendly neighborhood girly girl diving into the world
 
 ## ₊˚⊹♡ Coding enthusiast: ₊˚⊹♡
 
-As someone who enjoys the intricacies of coding, I find joy in crafting solutions and unraveling complex problems through lines of code. Whether it's Python, SQL, or JavaScript, I'm always eager to explore new languages and tools to enhance my analytical capabilities.
+As someone who enjoys the intricacies of coding, I find joy in crafting solutions and unraveling complex problems through lines of code. Whether it's Python, SQL, JavaScript, or any other language, I'm always eager to explore new languages and tools to enhance my analytical capabilities.
 
 <div align="center">
     <img src="https://media.tenor.com/7J2uWf56KB0AAAAj/hello-kitty-kawaii.gif" height="120px" />
@@ -38,16 +38,20 @@ Join me on this exciting journey as we delve into the fascinating world of techn
 
 ### ₊˚⊹♡ &nbsp;Tech Stack  ₊˚⊹♡ 
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+I'm proficient in a variety of programming languages and tools, including:
+
+- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
+- ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+- ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+- ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)
+- ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+- ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ### ₊˚⊹♡ Connect with me: ₊˚⊹♡
+
+You can connect with me on social media platforms:
 
 <p align="left">
     <a href="https://fb.com/https://web.facebook.com/channelkyte.oronico//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/channelkyte.oronico/" height="30" width="40" /></a>
@@ -55,6 +59,8 @@ Join me on this exciting journey as we delve into the fascinating world of techn
 </p>
 
 ### ₊˚⊹♡ Languages and Tools: ₊˚⊹♡
+
+Here are some of the languages and tools I'm proficient in:
 
 <p align="left">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
