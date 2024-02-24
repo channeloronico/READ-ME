@@ -2,24 +2,39 @@
     <img src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif" height="120px" />
 </div>
 
-<br/>
-₊˚⊹♡ Channel Kyte P. Oronico! ₊˚⊹♡ 
+                                    ₊˚⊹♡ Channel Kyte P. Oronico! ₊˚⊹♡ 
 
 Hey there! I'm Kyte, your friendly neighborhood girly girl diving into the world of technology. Currently pursuing a Bachelor of Science in Information Technology with a specialization in Business Analytics, I'm passionate about leveraging data to drive informed business decisions.
+
+<div align="center">
+    <img src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif" height="120px" />
+</div>
 
 💻 Coding enthusiast:
 As someone who enjoys the intricacies of coding, I find joy in crafting solutions and unraveling complex problems through lines of code. Whether it's Python, SQL, or JavaScript, I'm always eager to explore new languages and tools to enhance my analytical capabilities.
 
+<div align="center">
+    <img src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif" height="120px" />
+</div>
+
 📊 Data aficionado:
 With a keen eye for patterns and a knack for deciphering insights from data, I thrive in the realm of business analytics. From predictive modeling to data visualization, I love uncovering actionable intelligence that empowers organizations to thrive in today's data-driven landscape.
 
+<div align="center">
+    <img src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif" height="120px" />
+</div>
+
 Join me on this exciting journey as we delve into the fascinating world of technology, coding, and business analytics. Together, let's unravel the mysteries of data and unlock the potential it holds for a brighter, more informed future!
 
-
+<div align="center">
+    <img src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif" height="120px" />
+</div>
 
 <img alt="Coding" src="https://media0.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif?cid=790b761159f139zi8l4l4jdyaxb8nq6lihcgnjj55wdcru5g&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right"/>
 
-
+<div align="center">
+    <img src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif" height="120px" />
+</div>
 
 ### 🛠 &nbsp;Tech Stack
 
