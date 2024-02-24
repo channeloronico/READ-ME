@@ -35,7 +35,6 @@ Join me on this exciting journey as we delve into the fascinating world of techn
 ---
 
 <img alt="Coding" src="https://media0.giphy.com/media/nFLW7PNGgN3lI68rdv/giphy.gif?cid=790b761159f139zi8l4l4jdyaxb8nq6lihcgnjj55wdcru5g&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right"/>
-<img alt="Coding" src="https://i.pinimg.com/originals/a1/72/c2/a172c2b8ecdd40ecf106f2ae7b01f9cb.gif" align="right"/>
 
 
 ### ₊˚⊹♡ &nbsp;Tech Stack  ₊˚⊹♡ 
