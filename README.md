@@ -10,15 +10,15 @@ Hey there! I'm Kyte, your friendly neighborhood girly girl diving into the world
     <img src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif" height="120px" />
 </div>
 
-                                    ₊˚⊹♡ Coding enthusiast: ₊˚⊹♡ 
+                                        ₊˚⊹♡ Coding enthusiast: ₊˚⊹♡ 
 
 As someone who enjoys the intricacies of coding, I find joy in crafting solutions and unraveling complex problems through lines of code. Whether it's Python, SQL, or JavaScript, I'm always eager to explore new languages and tools to enhance my analytical capabilities.
 
 <div align="center">
     <img src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif" height="120px" />
 </div>
-
-                                    ₊˚⊹♡ Data aficionado: ₊˚⊹♡ 
+ 
+                                         ₊˚⊹♡ Data aficionado: ₊˚⊹♡ 
 
 With a keen eye for patterns and a knack for deciphering insights from data, I thrive in the realm of business analytics. From predictive modeling to data visualization, I love uncovering actionable intelligence that empowers organizations to thrive in today's data-driven landscape.
 
