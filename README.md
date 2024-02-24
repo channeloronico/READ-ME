@@ -29,7 +29,7 @@ With a keen eye for patterns and a knack for deciphering insights from data, I t
 Join me on this exciting journey as we delve into the fascinating world of technology, coding, and business analytics. Together, let's unravel the mysteries of data and unlock the potential it holds for a brighter, more informed future!
 
 <div align="center">
-    <img src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif" height="120px" />
+    <img src="https://64.media.tumblr.com/52b922e9dd5f9555a7ae55c52670b4a3/99b49a12a4cd2341-38/s540x810/cf9bcf58b9252291330b52022114ef34578a0f12.gif" height="120px" />
 </div>
 
 ---
