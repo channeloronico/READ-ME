@@ -2,7 +2,7 @@
 
 
 <div align="center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F5zoL&psig=AOvVaw2IEoxM7tvxA89fbyHCSofQ&ust=1708847617539000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCB6su_w4QDFQAAAAAdAAAAABAQ" height="120px" />
+    <img src="https://i.gifer.com/5zoL.gif" height="120px" />
 </div>
 
 <br/>
