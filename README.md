@@ -7,7 +7,7 @@
 Hey there! I'm Kyte, your friendly neighborhood girly girl diving into the world of technology. Currently pursuing a Bachelor of Science in Information Technology with a specialization in Business Analytics, I'm passionate about leveraging data to drive informed business decisions.
 
 <div align="center">
-    <img src="https://i.pinimg.com/originals/e9/f4/3c/e9f43c04be31b52741f470b998f21188.gif" height="120px" />
+    <img src="https://i.pinimg.com/originals/87/6a/a4/876aa45ccd864ca6b7339a321cfb0864.gif" height="120px" />
 </div>
 
 ## ₊˚⊹♡ Coding enthusiast: ₊˚⊹♡
