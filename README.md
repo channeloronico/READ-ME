@@ -10,7 +10,7 @@ Hey there! I'm Kyte, your friendly neighborhood girly girl diving into the world
     <img src="https://i.gifer.com/origin/e6/e6d694a154e6a32ec788b2c7af02c6bd_w200.gif" height="120px" />
 </div>
 
-# ₊˚⊹♡ Coding enthusiast: ₊˚⊹♡
+# ₊˚⊹♡ Coding Enthusiast: ₊˚⊹♡
 
 As someone who enjoys the intricacies of coding, I find joy in crafting solutions and unraveling complex problems through lines of code. Whether it's Python, SQL, JavaScript, or any other language, I'm always eager to explore new languages and tools to enhance my analytical capabilities.
 
@@ -18,7 +18,7 @@ As someone who enjoys the intricacies of coding, I find joy in crafting solution
     <img src="https://media.tenor.com/7J2uWf56KB0AAAAj/hello-kitty-kawaii.gif" height="120px" />
 </div>
 
-# ₊˚⊹♡ Data aficionado: ₊˚⊹♡
+# ₊˚⊹♡ Data Aficionado: ₊˚⊹♡
 
 With a keen eye for patterns and a knack for deciphering insights from data, I thrive in the realm of business analytics. From predictive modeling to data visualization, I love uncovering actionable intelligence that empowers organizations to thrive in today's data-driven landscape.
 
@@ -61,7 +61,7 @@ I'm proficient in a variety of programming languages and tools, including:
 7. Technical 3
 8. Animation Project
 
-### ₊˚⊹♡ Connect with me: ₊˚⊹♡
+### ₊˚⊹♡ Connect With Me: ₊˚⊹♡
 
 You can connect with me on social media platforms:
 
@@ -70,7 +70,7 @@ You can connect with me on social media platforms:
     <a href="https://instagram.com/https://www.instagram.com/chnnlkyte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/chnnlkyte/" height="30" width="40" /></a>
 </p>
 
-### ₊˚⊹♡ Languages and Tools: ₊˚⊹♡
+### ₊˚⊹♡ Languages And Tools: ₊˚⊹♡
 
 Here are some of the languages and tools I'm proficient in:
 
